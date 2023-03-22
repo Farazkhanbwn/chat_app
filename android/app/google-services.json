@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46536314505",
+    "project_id": "wechat-dca17",
+    "storage_bucket": "wechat-dca17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46536314505:android:c1673cf5a17830f52d8058",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46536314505-b170s2o5gslok05k1i3pgd9n34duc8ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqkmwoXf2GREK9Tn3lOL5iDX_qIpXccgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46536314505-b170s2o5gslok05k1i3pgd9n34duc8ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
